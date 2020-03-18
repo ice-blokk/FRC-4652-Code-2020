@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project JV Swerve Auto Test Jan 30 2020)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "JV Swerve Auto Test Jan 30 2020",
+    "language": "java"
+  }
+]

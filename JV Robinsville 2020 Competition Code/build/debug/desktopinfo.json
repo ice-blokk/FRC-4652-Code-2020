@@ -1,0 +1,47 @@
+[
+  {
+    "name": "JV Mt Olive 2020 Competition Code (in project JV Mt Olive 2020 Competition Code)",
+    "file": "C:\\Users\\Robotics7\\Desktop\\JV Code 2020-2021\\JV Mt Olive 2020 Competition Code\\build\\libs\\JV Mt Olive 2020 Competition Code.jar",
+    "extensions": [
+      "C:\\Users\\Robotics7\\Desktop\\JV Code 2020-2021\\JV Mt Olive 2020 Competition Code\\build\\tmp\\expandedArchives\\halsim_gui-2020.2.2-windowsx86-64.zip_f45deb918a703b9a683ad4047e06ed3c\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\Robotics7\\Desktop\\JV Code 2020-2021\\JV Mt Olive 2020 Competition Code\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  },
+  {
+    "name": "JV Swerve Auto Test Jan 30 2020 (in project JV Swerve Auto Test Jan 30 2020)",
+    "file": "C:\\Users\\user\\Desktop\\VScode projects\\JV 2020 Code Master Folder\\JV Swerve Auto Test Jan 30 2020\\build\\libs\\JV Swerve Auto Test Jan 30 2020.jar",
+    "extensions": [
+      "C:\\Users\\user\\Desktop\\VScode projects\\JV 2020 Code Master Folder\\JV Swerve Auto Test Jan 30 2020\\build\\tmp\\expandedArchives\\halsim_gui-2020.1.2-windowsx86-64.zip_0ded91afab576f356c80ba4c4e7b8310\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\user\\Desktop\\VScode projects\\JV 2020 Code Master Folder\\JV Swerve Auto Test Jan 30 2020\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  },
+  {
+    "name": "JV Swerve Test Jan 16 2020 (in project JV Swerve Test Jan 16 2020)",
+    "file": "C:\\Users\\user\\Desktop\\VScode projects\\JV 2020 Code Master Folder\\JV Swerve Test Jan 16 2020\\build\\libs\\JV Swerve Test Jan 16 2020.jar",
+    "extensions": [
+      "C:\\Users\\user\\Desktop\\VScode projects\\JV 2020 Code Master Folder\\JV Swerve Test Jan 16 2020\\build\\tmp\\expandedArchives\\halsim_gui-2020.1.2-windowsx86-64.zip_0ded91afab576f356c80ba4c4e7b8310\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\user\\Desktop\\VScode projects\\JV 2020 Code Master Folder\\JV Swerve Test Jan 16 2020\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  },
+  {
+    "name": "JV WIP Feb 20 2020 (in project JV WIP Feb 20 2020)",
+    "file": "C:\\Users\\user\\Desktop\\VScode projects\\JV 2020 Code Master Folder\\JV WIP Feb 20 2020\\build\\libs\\JV WIP Feb 20 2020.jar",
+    "extensions": [
+      "C:\\Users\\user\\Desktop\\VScode projects\\JV 2020 Code Master Folder\\JV WIP Feb 20 2020\\build\\tmp\\expandedArchives\\halsim_gui-2020.1.2-windowsx86-64.zip_0ded91afab576f356c80ba4c4e7b8310\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\user\\Desktop\\VScode projects\\JV 2020 Code Master Folder\\JV WIP Feb 20 2020\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  },
+  {
+    "name": "JV WIP Feb 25 2020 (in project JV WIP Feb 25 2020)",
+    "file": "C:\\Users\\user\\Desktop\\VScode projects\\JV 2020 Code Master Folder\\JV WIP Feb 25 2020\\build\\libs\\JV WIP Feb 25 2020.jar",
+    "extensions": [
+      "C:\\Users\\user\\Desktop\\VScode projects\\JV 2020 Code Master Folder\\JV WIP Feb 25 2020\\build\\tmp\\expandedArchives\\halsim_gui-2020.1.2-windowsx86-64.zip_0ded91afab576f356c80ba4c4e7b8310\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\user\\Desktop\\VScode projects\\JV 2020 Code Master Folder\\JV WIP Feb 25 2020\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]

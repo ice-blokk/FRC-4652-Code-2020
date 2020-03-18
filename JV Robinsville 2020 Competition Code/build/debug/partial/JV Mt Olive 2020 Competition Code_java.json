@@ -1,0 +1,11 @@
+[
+  {
+    "name": "JV Mt Olive 2020 Competition Code (in project JV Mt Olive 2020 Competition Code)",
+    "file": "C:\\Users\\Robotics7\\Desktop\\JV Code 2020-2021\\JV Mt Olive 2020 Competition Code\\build\\libs\\JV Mt Olive 2020 Competition Code.jar",
+    "extensions": [
+      "C:\\Users\\Robotics7\\Desktop\\JV Code 2020-2021\\JV Mt Olive 2020 Competition Code\\build\\tmp\\expandedArchives\\halsim_gui-2020.2.2-windowsx86-64.zip_f45deb918a703b9a683ad4047e06ed3c\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\Robotics7\\Desktop\\JV Code 2020-2021\\JV Mt Olive 2020 Competition Code\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
